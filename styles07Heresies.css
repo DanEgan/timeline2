@@ -1,0 +1,128 @@
+
+/* <!--********************ODDS HERESIES*******************--> */
+.h0000aJudaizers {  grid-column: 40/50; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300; color: white;}
+.h0000aJudaizers:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h0000bGnostics {  grid-column: 75/85; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h0000bGnostics:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+/* <!--********************100s HERESIES*******************--> */
+
+.h0100aMontanism {  grid-column: 65/70; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h0100aMontanism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h0200aModalism {  grid-column: 01/05; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h0200aModalism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+/* <!--********************200s HERESIES*******************--> */
+
+.h0200cManicheism {  grid-column: 48/53; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h0200cManicheism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+/* <!--********************300s HERESIES*******************--> */
+
+.h0300aArianism {  grid-column: 16/20; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h0300aArianism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h0300bRimini {  grid-column: 58/60; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h0300bRimini:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+/* <!--********************400s HERESIES*******************--> */
+
+.h0400aPelagianism {  grid-column: 01/07; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h0400aPelagianism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h0400bNestorianism {  grid-column: 20/26; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h0400bNestorianism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h0400cRobber {  grid-column: 45/55; grid-row: 86/89;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h0400cRobber:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h0400dMonophysitism {  grid-column: 60/67; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h0400dMonophysitism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+/* <!--********************600s HERESIES*******************--> */
+
+.h0600aMonotheletism {  grid-column: 10/17; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h0600aMonotheletism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h0600bIslam {  grid-column: 30/34; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h0600bIslam:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+/* <!--********************700s HERESIES*******************--> */
+
+.h0700aAdoptionism {  grid-column: 30/36; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h0700aAdoptionism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h0700bIconoclasm {  grid-column: 40/46; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h0700bIconoclasm:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+/* <!--********************1000s HERESIES*******************--> */
+
+.h1000aBerenger {  grid-column: 30/36; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1000aBerenger:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+/* <!--********************1100s HERESIES*******************--> */
+
+.h1100aCatharism {  grid-column: 12/16; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1100aCatharism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h1200aApostolics {  grid-column: 88/94; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1200aApostolics:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+/* <!--********************1200s HERESIES*******************--> */
+
+.h1200bWaldensianism {  grid-column: 60/75; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1200bWaldensianism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+/* <!--********************1300s HERESIES*******************--> */
+
+.h1300aWyclif {  grid-column: 55/65; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1300aWyclif:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+/* <!--********************1400s HERESIES*******************--> */
+
+.h1400aHus {  grid-column: 10/15; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1400aHus:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+/* <!--********************1500s HERESIES*******************--> */
+
+.h1500aLuther {  grid-column: 15/20; grid-row: 85/88;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1500aLuther:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h1500bCalvin {  grid-column: 20/25; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1500bCalvin:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h1500cAnabaptist {  grid-column: 35/40; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1500cAnabaptist:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h1500dAnglican {  grid-column: 30/35; grid-row: 90/93;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1500dAnglican:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+/* <!--********************1600s HERESIES*******************--> */
+
+.h1600aJansenism {  grid-column: 8/11; grid-row: 86/88;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1600aJansenism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h1600bBaptist {  grid-column: 8/11; grid-row: 90/93;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1600bBaptist:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h1600cDeism {  grid-column: 18/21; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1600cDeism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+/* <!--********************1700s HERESIES*******************--> */
+
+.h1700aFreemasons {  grid-column: 15/20; grid-row: 86/88;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1700aFreemasons:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h1700bMethodism {  grid-column: 60/75; grid-row: 89/92;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1700bMethodism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+/* <!--********************1800s HERESIES*******************--> */
+
+.h1800aModernism {  grid-column: 10/15; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1800aModernism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h1800bMormonism {  grid-column: 28/32; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1800bMormonism:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h1800cJWs {  grid-column: 70/75; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1800cJWs:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h1800dDarwin {  grid-column: 85/90; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1800dDarwin:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+/* <!--********************1900s HERESIES*******************--> */
+
+.h1900aVineyard74 {  grid-column: 73/77; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1900aVineyard74:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}
+
+.h1900bCrossroads96  {  grid-column: 94/99; grid-row: 88/91;  font-family: helvetica, sans-serif;  font-variant: small-caps;  font-size: 1.5vh; font-weight: 300;  color: white;}
+.h1900bCrossroads96:hover { background: gray;  border-width: 1px; border-style: solid;  cursor: pointer;}

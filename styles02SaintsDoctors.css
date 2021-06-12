@@ -1,0 +1,37 @@
+/* <!--********************100s SAINTS*******************--> */
+
+.s0110Ignatius {
+  grid-column: 10/20; grid-row: 12/19;
+  font-size: 2vh; font-weight: 800;
+  color: red;}
+.s0110Ignatius:hover {
+  background: white;
+  border-width: 0px; border-style: solid;
+  border-color: red; cursor: pointer;}
+
+.s0155Polycarp {
+  grid-column: 50/60; grid-row: 12/19;
+  font-size: 2vh; font-weight: 400;
+  color: red;}
+.s0155Polycarp:hover {
+  background: white;
+  border-width: 0px; border-style: solid;
+  border-color: red; cursor: pointer;}
+
+.s0165Justin {
+  grid-column: 60/70; grid-row: 12/19;
+  font-size: 2vh; font-weight: 400;
+  color: red;}
+.s0165Justin:hover {
+  background: white;
+  border-width: 0px; border-style: solid;
+  border-color: red; cursor: pointer;}
+
+.s0180Cecilia {
+  grid-column: 75/85; grid-row: 12/19;
+  font-size: 2vh; font-weight: 400;
+  color: red;}
+.s0180Cecilia:hover {
+  background: white;
+  border-width: 0px; border-style: solid;
+  border-color: red; cursor: pointer;}

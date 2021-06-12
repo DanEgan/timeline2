@@ -1,0 +1,59 @@
+/* ******************ODDS **************************** */
+
+.r0000Nero { background: Green; grid-column: 54/68;
+  grid-row: 53/57;  font-size: 1.5vh;  text-align: center;
+  color: white;}
+.r0000Nero:hover {background: lightgreen;
+  border-width: 1px; border-style: solid;
+  border-color: white; cursor: pointer;
+}
+.r0001Vespasian { background: Green; grid-column: 69/79;
+  grid-row: 55/59;  font-size: 1.5vh;  text-align: center;
+  color: white;}
+.r0001Vespasian:hover {background: lightgreen;
+  border-width: 1px; border-style: solid;
+  border-color: white; cursor: pointer;
+}
+.r0002Domitian { background: Green; grid-column: 81/96;
+  grid-row: 53/57;  font-size: 1.5vh;  text-align: center;
+  color: white;}
+.r0002Domitian:hover {background: lightgreen;
+  border-width: 1px; border-style: solid;
+  border-color: white; cursor: pointer;
+}
+.r0003Trajan { background: Green; grid-column: 98/100;
+  grid-row: 55/59;  font-size: 1.5vh;  text-align: center;
+  color: white;}
+.r0003Trajan:hover {background: lightgreen;
+  border-width: 1px; border-style: solid;
+  border-color: white; cursor: pointer;
+}
+/* ******************100s **************************** */
+.r0100Trajan { background: Green; grid-column: 1/17;
+  grid-row: 55/59;  font-size: 1.5vh;  text-align: center;
+  color: white;}
+.r0100Trajan:hover {background: lightgreen;
+  border-width: 1px; border-style: solid;
+  border-color: white; cursor: pointer;
+}
+.r0117Hadrian { background: Green; grid-column: 17/38;
+  grid-row: 53/57;  font-size: 1.5vh;  text-align: center;
+  color: white;}
+.r0117Hadrian:hover {background: lightgreen;
+  border-width: 1px; border-style: solid;
+  border-color: white; cursor: pointer;
+
+}.r0138AntoniusPius { background: Green; grid-column: 38/61;
+  grid-row: 55/59;  font-size: 1.5vh;  text-align: center;
+  color: white;}
+.r0138AntoniusPius:hover {background: lightgreen;
+  border-width: 1px; border-style: solid;
+  border-color: white; cursor: pointer;
+
+}.r0161MarcusAurelius { background: Green; grid-column: 61/80;
+  grid-row: 53/57;  font-size: 1.5vh;  text-align: center;
+  color: white;}
+.r0161MarcusAurelius:hover {background: lightgreen;
+  border-width: 1px; border-style: solid;
+  border-color: white; cursor: pointer;
+}

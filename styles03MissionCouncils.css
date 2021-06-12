@@ -1,0 +1,63 @@
+/* <!--********************COUNCILS 300s*******************--> */
+.c01Nicaea  { background: mediumslateblue; grid-column: 23/27; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c01Nicaea :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c02ConstantinopleI    { background: mediumslateblue; grid-column: 79/83; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c02ConstantinopleI   :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c03Ephesus    { background: mediumslateblue; grid-column: 29/33; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c03Ephesus   :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c04Chalcedon    { background: mediumslateblue; grid-column: 49/53; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c04Chalcedon   :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c05ConstantinopleII   { background: mediumslateblue; grid-column: 51/55; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c05ConstantinopleII  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c06ConstantinopleIII   { background: mediumslateblue; grid-column: 78/82; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c06ConstantinopleIII  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c07NicaeaII    { background: mediumslateblue; grid-column: 85/89; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c07NicaeaII  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c08ConstantinopleIV   { background: mediumslateblue; grid-column: 67/71; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c08ConstantinopleIV  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c09LateranI   { background: mediumslateblue; grid-column: 21/25; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c09LateranI  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c10LateranII   { background: mediumslateblue; grid-column: 37/41; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c10LateranII  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c11LateranIII   { background: mediumslateblue; grid-column: 77/81; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c11LateranIII  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c12LateranIV   { background: mediumslateblue; grid-column: 13/17; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c12LateranIV  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c13LyonsI   { background: mediumslateblue; grid-column: 43/47; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c13LyonsI  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c14LyonsII   { background: mediumslateblue; grid-column: 72/76; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c14LyonsII  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c15Vienne   { background: mediumslateblue; grid-column: 11/13; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c15Vienne  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c16Constance   { background: mediumslateblue; grid-column: 14/18; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c16Constance  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c17Basle-Ferrara-Florence    { background: mediumslateblue; grid-column: 31/39; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c17Basle-Ferrara-Florence   :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c18LateranV   { background: mediumslateblue; grid-column: 12/17; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c18LateranV  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c19Trent   { background: mediumslateblue; grid-column: 45/63; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c19Trent  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c20VaticanI   { background: mediumslateblue; grid-column: 67/72; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c20VaticanI  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.c21VaticanII   { background: mediumslateblue; grid-column: 60/67; grid-row: 45/48; font-size: 1.5vh; text-align: center; color: white;}
+.c21VaticanII  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
