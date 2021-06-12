@@ -1,0 +1,1141 @@
+
+/*first red line*/
+.p001Peter {
+ background: crimson;
+ grid-column: 32/67;
+ grid-row: 36/40;
+ font-size: 1.5vh;
+ color: white;
+}
+
+.p001Peter:hover {
+ background: mediumslateblue;
+ border-width: 1px;
+ border-style: solid;
+ border-color: magenta;
+ cursor: pointer;
+}
+
+/*Second red line*/
+.p002Linus {
+ background: crimson;
+ grid-column: 67/76;
+ grid-row: 34/38;
+ font-size: 1.5vh;
+ color: white;
+}
+
+.p002Linus:hover {
+ background: mediumslateblue;
+ border-width: 1px;
+ border-style: solid;
+ border-color: magenta;
+ cursor: pointer;
+}
+
+/*Third red line*/
+.p003Cletus {
+ background: crimson;
+ grid-column: 76/88;
+ grid-row: 36/40;
+ font-size: 1.5vh;
+ color: white;
+}
+
+.p003Cletus:hover {
+ background: mediumslateblue;
+ border-width: 1px;
+ border-style: solid;
+ border-color: magenta;
+ cursor: pointer;
+}
+
+/*4th red line*/
+.p004Clement {
+ background: crimson;
+ grid-column: 88/97;
+ grid-row: 34/38;
+ font-size: 1.5vh;
+ color: white;
+}
+
+.p004Clement:hover {
+ background: mediumslateblue;
+ border-width: 1px;
+ border-style: solid;
+ border-color: magenta;
+ cursor: pointer;
+}
+
+/*4th red line*/
+.p005aEvaristus {
+ background: crimson;
+ grid-column: 97/100;
+ grid-row: 36/40;
+ font-size: 1.5vh;
+ text-align: right;
+ color: white;
+}
+
+.p005aEvaristus:hover {
+ background: mediumslateblue;
+ border-width: 1px;
+ border-style: solid;
+ border-color: magenta;
+ cursor: pointer;
+}
+
+
+/* <!--********************100s POPES*******************--> */
+.p005bEvaristus {
+ background: crimson;
+ grid-column: 1/5;
+ grid-row: 36/40;
+ font-size: 1.5vh;
+ text-align: left;
+ color: white;
+}
+
+.p005bEvaristus:hover {
+ background: mediumslateblue;
+ border-width: 1px;
+ border-style: solid;
+ border-color: magenta;
+ cursor: pointer;
+}
+.p006Alexander {
+ background: crimson;
+ grid-column: 5/15;
+ grid-row: 34/38;
+ font-size: 1.5vh;
+ text-align: center;
+ color: white;
+}
+
+.p006Alexander:hover {
+ background: mediumslateblue;
+ border-width: 1px;
+ border-style: solid;
+ border-color: magenta;
+ cursor: pointer;
+}
+
+.p007Sixtus {
+ background: crimson;
+ grid-column: 15/25;
+ grid-row: 36/40;
+ font-size: 1.5vh;
+ text-align: center;
+ color: white;
+}
+
+.p007Sixtus:hover {
+ background: mediumslateblue;
+ border-width: 1px;
+ border-style: solid;
+ border-color: magenta;
+ cursor: pointer;
+}
+
+.p008Telesphorus { background: crimson; grid-column: 25/36;
+ grid-row: 34/38; font-size: 1.5vh; text-align: center;
+ color: white;}
+.p008Telesphorus:hover {background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p009Hyginus { background: crimson; grid-column: 36/40;
+ grid-row: 36/40; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p009Hyginus:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p010Pius { background: crimson; grid-column: 40/55;
+ grid-row: 34/38; font-size: 1.5vh; text-align: center;
+ color: white;}
+.p010Pius:hover {background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p011Anicetus { background: crimson; grid-column: 55/66;
+ grid-row: 36/40; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p011Anicetus:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+
+.p012Soter { background: crimson; grid-column: 66/75;
+ grid-row: 34/38; font-size: 1.5vh; text-align: center;
+ color: white;}
+.p012Soter:hover {background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p013Eleutherius { background: crimson; grid-column: 75/89;
+ grid-row: 36/40; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p013Eleutherius:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p014Victor { background: crimson; grid-column: 89/99;
+ grid-row: 34/38; font-size: 1.5vh; text-align: center;
+ color: white;}
+.p014Victor:hover {background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p015Zephyrinusa { background: yellow; grid-column: 99/100;
+ grid-row: 36/40; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p015Zephyrinusa:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+
+/* <!--********************200s POPES*******************--> */
+.p015Zephyrinusb { background: yellow; grid-column: 01/17;
+ grid-row: 36/40; font-size: 1.5vh;
+ text-align: center; color: black;}
+.p015Zephyrinusb:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p016Callistus { background: crimson; grid-column: 17/22;
+ grid-row: 34/38; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p016Callistus:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p017Urban { background: crimson; grid-column: 22/30;
+ grid-row: 36/40; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p017Urban:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p018Pontian { background: crimson; grid-column: 30/35;
+ grid-row: 34/38; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p018Pontian:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p019Anterus { background: crimson; grid-column: 35/36;
+ grid-row: 36/40; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p019Anterus:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p020Fabian { background: crimson; grid-column: 36/50;
+ grid-row: 34/38; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p020Fabian:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p021Cornelius { background: crimson; grid-column: 51/53;
+ grid-row: 36/40; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p021Cornelius:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p022Lucius { background: crimson; grid-column: 53/54;
+ grid-row: 34/38; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p022Lucius:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p023Stephen { background: crimson; grid-column: 54/57;
+ grid-row: 36/40; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p023Stephen:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p024SixtusII { background: crimson; grid-column: 57/58;
+ grid-row: 34/38; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p024SixtusII:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p025Dionysius { background: crimson; grid-column: 59/68;
+ grid-row: 36/40; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p025Dionysius:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p026Felix { background: crimson; grid-column: 69/74;
+ grid-row: 34/38; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p026Felix:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p027Eutychian { background: crimson; grid-column: 75/83;
+ grid-row: 36/40; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p027Eutychian:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p028Caius { background: crimson; grid-column: 83/96;
+ grid-row: 34/38; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p028Caius:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+.p029Marcellinusa { background: crimson; grid-column: 96/100;
+ grid-row: 36/40; font-size: 1.5vh;
+ text-align: center; color: white;}
+.p029Marcellinusa:hover { background: mediumslateblue;
+ border-width: 1px; border-style: solid;
+ border-color: magenta; cursor: pointer;
+}
+
+
+
+/* <!--********************300s POPES*******************--> */
+.p029Marcellinusb { background: crimson; grid-column: 00/04; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p029Marcellinusb:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p030Marcellus { background: crimson; grid-column: 08/09; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p030Marcellus:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p031Eusebius { background: crimson; grid-column: 09/10; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p031Eusebius:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p032Miltiades { background: crimson; grid-column: 11/14; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p032Miltiades:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p033Sylvester { background: yellow; grid-column: 14/35; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p033Sylvester:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p034Marcus { background: yellow; grid-column: 36/36; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p034Marcus:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p035Julius { background: yellow; grid-column: 37/52; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p035Julius:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p036Liberius { background: blue; grid-column: 52/66; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p036Liberius:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p037Damasus { background: yellow; grid-column: 66/84; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p037Damasus:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p038Siricius { background: yellow; grid-column: 84/99; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p038Siricius:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p039Anastasiusa { background: yellow; grid-column: 99/100; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p039Anastasiusa:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+
+/* <!--********************400s POPES*******************--> */
+
+
+.p039Anastasiusb { background: yellow; grid-column: 00/01; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p039Anastasiusb:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p040Innocent { background: yellow; grid-column: 02/17; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p040Innocent:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p041Zosimus { background: yellow; grid-column: 17/18; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p041Zosimus:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p042Boniface { background: yellow; grid-column: 18/22; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p042Boniface:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p043Celestine { background: yellow; grid-column: 22/32; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p043Celestine:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p044SixtusIII { background: yellow; grid-column: 32/40; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p044SixtusIII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p045Leo { background: yellow; grid-column: 40/61; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p045Leo:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p046Hilarius { background: yellow; grid-column: 61/68; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p046Hilarius:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p047Simplicius { background: yellow; grid-column: 68/83; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p047Simplicius:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p048FelixIII { background: yellow; grid-column: 83/92; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p048FelixIII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p049Gelasius { background: yellow; grid-column: 92/96; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p049Gelasius:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p050AnastasiusII { background: blue; grid-column: 96/98; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p050AnastasiusII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p051Symmachusa { background: yellow; grid-column: 98/100; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p051Symmachusa:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+
+/* <!--********************500s POPES*******************--> */
+.p051Symmachusb { background: yellow; grid-column: 00/14; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p051Symmachusb:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p052Hormisdas { background: yellow; grid-column: 14/23; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p052Hormisdas:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p053John { background: yellow; grid-column: 23/26; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p053John:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p054Felix { background: yellow; grid-column: 26/30; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p054Felix:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p055BonifaceII { background: blue; grid-column: 30/32; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p055BonifaceII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p056JohnII { background: blue; grid-column: 33/35; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p056JohnII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p057Agapetus { background: yellow; grid-column: 35/36; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p057Agapetus:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p058Silverius { background: yellow; grid-column: 36/37; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p058Silverius:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p059Vigilius { background: blue; grid-column: 37/55; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p059Vigilius:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p060Pelagius { background: blue; grid-column: 56/61; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p060Pelagius:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p061JohnIII { background: blue; grid-column: 61/74; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p061JohnIII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p062Benedict { background: blue; grid-column: 75/79; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p062Benedict:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p063PelagiusII { background: blue; grid-column: 79/90; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p063PelagiusII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p064Gregorya { background: yellow; grid-column: 90/100; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p064Gregorya:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+
+/* <!--********************600s POPES*******************--> */
+.p064Gregoryb { background: yellow; grid-column: 00/04; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p064Gregoryb:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p065Sabinian { background: blue; grid-column: 04/06; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p065Sabinian:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p066BonifaceIII { background: blue; grid-column: 07/07; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p066BonifaceIII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p067BonifaceIV { background: yellow; grid-column: 08/15; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p067BonifaceIV:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p068Adeodatus { background: yellow; grid-column: 15/18; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p068Adeodatus:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p069BonifaceV { background: blue; grid-column: 19/25; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p069BonifaceV:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p070Honorius { background: blue; grid-column: 25/38; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p070Honorius:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p071Severinus { background: blue; grid-column: 40/40; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p071Severinus:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p072JohnIV { background: blue; grid-column: 41/42; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p072JohnIV:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p073Theodore { background: blue; grid-column: 42/49; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p073Theodore:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p074Martin { background: yellow; grid-column: 49/55; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p074Martin:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p075Eugene { background: yellow; grid-column: 55/57; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p075Eugene:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p076Vitalian { background: yellow; grid-column: 57/72; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p076Vitalian:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p077AdeodatusII { background: blue; grid-column: 72/76; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p077AdeodatusII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p078Donus { background: blue; grid-column: 76/78; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p078Donus:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p079Agatho { background: yellow; grid-column: 78/81; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p079Agatho:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p080LeoII { background: yellow; grid-column: 82/83; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p080LeoII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p081BenedictII { background: yellow; grid-column: 84/85; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p081BenedictII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p082JohnV { background: blue; grid-column: 85/86; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p082JohnV:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p083Conon { background: blue; grid-column: 86/87; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p083Conon:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p084Sergiusa { background: yellow; grid-column: 87/100; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p084Sergiusa:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+/* <!--********************700s POPES*******************--> */
+
+.p084Sergiusb { background: yellow; grid-column: 01/01; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p084Sergiusb:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p085JohnVI { background: blue; grid-column: 02/05; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p085JohnVI:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p086JohnVII { background: blue; grid-column: 05/07; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p086JohnVII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p087Sisinnius { background: blue; grid-column: 08/08; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p087Sisinnius:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p088Constantine { background: blue; grid-column: 09/15; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p088Constantine:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p089GregoryII { background: yellow; grid-column: 15/31; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p089GregoryII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p090GregoryIII { background: yellow; grid-column: 31/41; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p090GregoryIII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p091Zachary { background: yellow; grid-column: 41/52; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p091Zachary:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p092StephenII { background: blue; grid-column: 52/57; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p092StephenII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p093Paul { background: yellow; grid-column: 57/67; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p093Paul:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p094StephenIII { background: blue; grid-column: 67/72; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p094StephenIII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p095Adrian { background: blue; grid-column: 72/95; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p095Adrian:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p096LeoIIIa { background: yellow; grid-column: 95/100; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p096LeoIIIa:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+
+
+
+/* <!--********************800s POPES*******************--> */
+
+.p096LeoIIIb { background: yellow; grid-column: 01/16; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p096LeoIIIb:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p097StephenIV { background: blue; grid-column: 16/17; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p097StephenIV:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p098Paschal { background: yellow; grid-column: 17/24; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p098Paschal:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p099EugeneII { background: blue; grid-column: 24/26; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p099EugeneII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+.p100Valentine { background: blue; grid-column: 27/27; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p100Valentine:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+.p101GregoryIV { background: blue; grid-column: 28/44; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p101GregoryIV:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p102SergiusII { background: blue; grid-column: 44/47; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p102SergiusII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p103LeoIV { background: yellow; grid-column: 47/55; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p103LeoIV:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p104BenedictIII { background: blue; grid-column: 55/58; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p104BenedictIII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p105Nicholas { background: yellow; grid-column: 58/67; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p105Nicholas:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p106AdrianII { background: blue; grid-column: 67/72; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p106AdrianII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p107JohnVIII { background: blue; grid-column: 72/82; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p107JohnVIII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p108Marinus { background: blue; grid-column: 82/84; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p108Marinus:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p109AdrianIII { background: yellow; grid-column: 84/85; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p107JohnVIII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p110StephenV { background: blue; grid-column: 85/91; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p110StephenV:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p111Formosus { background: blue; grid-column: 91/96; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p111Formosus:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+/* .p112BonifaceVI { background: blue; grid-column: 96/96; grid-row: 33/37; font-size: 1.5vh; text-align: center; color: white;}
+.p112BonifaceVI:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;} */
+
+.p112-p115{ background: blue; grid-column: 96/97; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p112-p115:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+/*
+.p115TheodoreII { background: blue; grid-column: 97/97; grid-row: 37/41; font-size: 1vh; text-align: center; color: white;}
+.p115TheodoreII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;} */
+
+.p116JohnIX { background: blue; grid-column: 98/100; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p116JohnIX:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+/* <!--********************900s POPES*******************--> */
+
+.p117BenedictIV { background: blue; grid-column: 01/03; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p117BenedictIV:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+.p118LeoV  { background: blue; grid-column: 03/03; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p118LeoV:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+.p119SergiusIII  { background: blue; grid-column: 04/11; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p119SergiusIII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p120AnastasiusIII  { background: blue; grid-column: 11/13; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p120AnastasiusIII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p121Lando  { background: blue; grid-column: 13/14; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p121Lando:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p122JohnX  { background: blue; grid-column: 14/28; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p122JohnX:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+.p123LeoVI  { background: blue; grid-column: 28/28; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p123LeoVI:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+.p124StephenVIII  { background: blue; grid-column: 29/31; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p124StephenVIII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p125JohnXI  { background: blue; grid-column: 31/35; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p125JohnXI:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p126LeoVII  { background: blue; grid-column: 36/39; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p126LeoVII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p127StephenIX  { background: blue; grid-column: 39/42; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p127StephenIX:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p128MarinusII  { background: blue; grid-column: 42/46; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p128MarinusII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p129AgapetusII  { background: blue; grid-column: 46/55; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p129AgapetusII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p130JohnXII  { background: blue; grid-column: 55/63; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p130JohnXII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p131LeoVIII  { background: blue; grid-column: 63/64; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p131LeoVIII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+.p132BenedictV  { background: blue; grid-column: 64/64; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p132BenedictV:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+.p133JohnXIII  { background: blue; grid-column: 65/72; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p133JohnXIII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p134BenedictVI  { background: blue; grid-column: 73/74; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p134BenedictVI:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p135BenedictVII  { background: blue; grid-column: 74/83; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p135BenedictVII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p136JohnXIV  { background: blue; grid-column: 83/84; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p136JohnXIV:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p137JohnXV  { background: blue; grid-column: 85/96; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p137JohnXV:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p138GregoryV  { background: blue; grid-column: 96/99; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p138GregoryV:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p139SylvesterIIa  { background: blue; grid-column: 99/100; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p139SylvesterIIa:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+/* <!--********************1000s POPES*******************--> */
+
+.p139SylvesterIIb  { background: blue; grid-column: 01/03; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p139SylvesterIIb:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+
+.p140JohnXVII   { background: blue; grid-column: 03/03; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p140JohnXVII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+
+.p141JohnXVIII   { background: blue; grid-column: 04/09; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p141JohnXVIII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p142SergiusIV    { background: blue; grid-column: 09/12; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p142SergiusIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p143BenedictVIII    { background: blue; grid-column: 12/24; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p143BenedictVIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p144JohnXIX    { background: blue; grid-column: 24/32; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p144JohnXIX :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p145BenedictIX    { background: blue; grid-column: 32/45; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p145BenedictIX :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+
+
+/* .p146SylvesterIII     { background: blue; grid-column: 00/00; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p146SylvesterIII  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p147BenedictIX    { background: blue; grid-column: 00/00; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p147BenedictIX :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;} */
+
+.p146-148   { background: blue; grid-column: 45/46; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p146-148  :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+
+.p149ClementII    { background: blue; grid-column: 46/47; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p149ClementII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p150BenedictIX    { background: blue; grid-column: 47/48; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p150BenedictIX :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p151DamasusII    { background: blue; grid-column: 48/48; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p151DamasusII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p152LeoIX    { background: yellow; grid-column: 49/54; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p152LeoIX :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p153VictorII    { background: blue; grid-column: 55/57; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p153VictorII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p154StephenX    { background: blue; grid-column: 57/58; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p154StephenX :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p155NicholasII    { background: blue; grid-column: 58/61; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p155NicholasII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p156AlexanderII    { background: blue; grid-column: 61/73; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p156AlexanderII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p157GregoryVII    { background: yellow; grid-column: 73/85; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p157GregoryVII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p158VictorIII    { background: yellow; grid-column: 86/87; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p158VictorIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p159UrbanII    { background: yellow; grid-column: 88/99; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p159UrbanII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p160PaschalIIa    { background: blue; grid-column: 99/100; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p160PaschalIIa :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+/* <!--********************1100s POPES*******************--> */
+
+.p160PaschalIIb    { background: blue; grid-column: 01/18; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p160PaschalIIb :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p161GelasiusII    { background: blue; grid-column: 18/19; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p161GelasiusII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p162CallistusII    { background: blue; grid-column: 19/24; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p162CallistusII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p163HonoriusII    { background: blue; grid-column: 24/30; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p163HonoriusII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p164InnocentII    { background: blue; grid-column: 30/43; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p164InnocentII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p165CelestineII    { background: blue; grid-column: 43/44; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p165CelestineII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p166LuciusII    { background: blue; grid-column: 44/45; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p166LuciusII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p167EugeneIII    { background: yellow; grid-column: 45/53; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p167EugeneIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p168AnastasiusIV    { background: blue; grid-column: 53/54; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p168AnastasiusIV:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p169AdrianIV    { background: blue; grid-column: 54/59; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p169AdrianIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p170AlexanderIII    { background: blue; grid-column: 59/81; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p170AlexanderIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p171LuciusIII    { background: blue; grid-column: 81/85; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p171LuciusIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p172UrbanIII    { background: blue; grid-column: 85/87; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p172UrbanIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+
+.p173GregoryVIII    { background: blue; grid-column: 87/87; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p173GregoryVIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+
+.p174ClementIII    { background: blue; grid-column: 88/91; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p174ClementIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p175CelestineIII    { background: blue; grid-column: 91/98; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p175CelestineIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p176InnocentIIIa    { background: blue; grid-column: 98/100; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p176InnocentIIIa :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+
+/* <!--********************1200s POPES*******************--> */
+.p176InnocentIIIb    { background: blue; grid-column: 01/16; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p176InnocentIIIb :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p177HonoriusIII    { background: blue; grid-column: 16/27; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p177HonoriusIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p178GregoryIX    { background: blue; grid-column: 27/41; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p178GregoryIX :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p179CelestineIV    { background: blue; grid-column: 41/41; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p179CelestineIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p180InnocentIV    { background: blue; grid-column: 43/54; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p180InnocentIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p181AlexanderIV    { background: blue; grid-column: 54/61; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p181AlexanderIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p182UrbanIV    { background: blue; grid-column: 61/64; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p182UrbanIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p183ClementIV    { background: blue; grid-column: 65/68; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p183ClementIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p184GregoryX    { background: yellow; grid-column: 71/76; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p184GregoryX :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p185-187   { background: blue; grid-column: 76/77; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p185-187 :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p188NicholasIII    { background: blue; grid-column: 77/80; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p188NicholasIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p189MartinIV    { background: blue; grid-column: 81/85; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p189MartinIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p190HonoriusIV    { background: blue; grid-column: 85/87; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p190HonoriusIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p191NicholasIV    { background: blue; grid-column: 88/92; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p191NicholasIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p192CelestineV    { background: yellow; grid-column: 94/94; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p192CelestineV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p193BonifaceVIIIa   { background: blue; grid-column: 95/100; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p193BonifaceVIIIa :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+/* <!--********************1300s POPES*******************--> */
+
+.p193BonifaceVIIIb    { background: blue; grid-column: 01/03; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p193BonifaceVIIIb :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p194BenedictXI   { background: yellow; grid-column: 03/04; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p194BenedictXI:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p195ClementV    { background: blue; grid-column: 05/14; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p195ClementV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p196JohnXXII    { background: blue; grid-column: 16/34; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p196JohnXXII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p197BenedictXII   { background: blue; grid-column: 34/42; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p197BenedictXII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p198ClementVI    { background: blue; grid-column: 42/52; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p198ClementVI :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p199InnocentVI    { background: blue; grid-column: 52/62; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p199InnocentVI :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p200UrbanV    { background: yellow; grid-column: 62/70; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p200UrbanV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p201GregoryXI    { background: blue; grid-column: 70/78; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p201GregoryXI :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p202UrbanVI    { background: blue; grid-column: 78/89; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p202UrbanVI :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p203BonifaceIXa    { background: blue; grid-column: 89/100; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p203BonifaceIXa :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+/* <!--********************1400s POPES*******************--> */
+
+.p203BonifaceIXb    { background: blue; grid-column: 01/04; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p203BonifaceIXb :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p204InnocentVII   { background: blue; grid-column: 04/06; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p204InnocentVII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p205GregoryXII    { background: blue; grid-column: 06/15; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p205GregoryXII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p206MartinV    { background: blue; grid-column: 17/31; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p206MartinV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p207EugeneIV    { background: blue; grid-column: 31/47; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p207EugeneIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p208NicholasV    { background: blue; grid-column: 47/55; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p208NicholasV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p209CallistusIII    { background: blue; grid-column: 55/58; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p209CallistusIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p210PiusII    { background: blue; grid-column: 58/64; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p210PiusII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p211PaulII    { background: blue; grid-column: 64/71; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p211PaulII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p212SixtusIV    { background: blue; grid-column: 71/84; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p212SixtusIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p213InnocentVIII    { background: blue; grid-column: 84/92; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p213InnocentVIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p214AlexanderVIa    { background: blue; grid-column: 92/100; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p214AlexanderVIa :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+/* <!--********************1500s POPES*******************--> */
+
+
+.p214AlexanderVIb    { background: blue; grid-column: 01/03; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p214AlexanderVIb :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p215PiusIII    { background: blue; grid-column: 03/03; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p215PiusIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p216JuliusII    { background: blue; grid-column: 04/13; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p216JuliusII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p217LeoX    { background: blue; grid-column: 13/21; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p217LeoX :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p218AdrianVI    { background: blue; grid-column: 22/23; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p218AdrianVI :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p219ClementVII    { background: blue; grid-column: 23/34; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p219ClementVII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p220PaulIII    { background: blue; grid-column: 34/49; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p220PaulIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p221JuliusIII    { background: blue; grid-column: 50/55; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p221JuliusIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p222MarcellusII    { background: blue; grid-column: 55/55; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p222MarcellusII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p223PaulIV    { background: blue; grid-column: 56/58; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p223PaulIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p224PiusIV    { background: blue; grid-column: 59/65; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p224PiusIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p225PiusV    { background: yellow; grid-column: 66/72; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p225PiusV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p226GregoryXIII    { background: blue; grid-column: 72/85; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p226GregoryXIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p227SixtusV    { background: blue; grid-column: 85/90; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p227SixtusV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p228UrbanVII    { background: blue; grid-column: 90/90; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p228UrbanVII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p229GregoryXIV    { background: blue; grid-column: 90/91; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p229GregoryXIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p230InnocentIX    { background: blue; grid-column: 91/91; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p230InnocentIX :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p231ClementVIIIa    { background: blue; grid-column:92/100; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p231ClementVIIIa :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+/* <!--********************1600s POPES*******************--> */
+
+
+.p231ClementVIIIb    { background: blue; grid-column:01/05; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p231ClementVIIIb :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p232LeoXI    { background: blue; grid-column: 05/05; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p232LeoXI :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p233PaulV    { background: blue; grid-column: 06/21; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p233PaulV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p234GregoryXV    { background: blue; grid-column: 21/23; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p234GregoryXV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p235UrbanVIII    { background: blue; grid-column: 23/44; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p235UrbanVIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p236InnocentX    { background: blue; grid-column: 44/55; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p236InnocentX :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p237AlexanderVII    { background: blue; grid-column: 55/67; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p237AlexanderVII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p238ClementIX    { background: blue; grid-column: 67/69; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p238ClementIX :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p239ClementX    { background: blue; grid-column: 70/76; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p239ClementX :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p240InnocentXI    { background: yellow; grid-column: 76/89; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: black;}
+.p240InnocentXI :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p241AlexanderVIII    { background: blue; grid-column: 89/91; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p241AlexanderVIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p242InnocentXII    { background: blue; grid-column: 91/100; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p242InnocentXII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+/* <!--********************1700s POPES*******************--> */
+.p243ClementXI    { background: blue; grid-column: 01/21; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p243ClementXI :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p244InnocentXIII    { background: blue; grid-column: 21/24; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p244InnocentXIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p245BenedictXIII    { background: blue; grid-column: 24/30; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p245BenedictXIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p246ClementXII    { background: blue; grid-column: 30/40; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p246ClementXII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p247BenedictXIV    { background: blue; grid-column: 40/58; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p247BenedictXIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p248ClementXIII    { background: blue; grid-column: 58/69; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p248ClementXIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p249ClementXIV    { background: blue; grid-column: 69/74; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p249ClementXIV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p250PiusVI    { background: blue; grid-column: 75/99; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p250PiusVI :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+/* <!--********************1800s POPES*******************--> */
+
+.p251PiusVII   { background: blue; grid-column: 01/23; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p251PiusVII:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p252LeoXII    { background: blue; grid-column: 23/29; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p252LeoXII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p253PiusVIII    { background: blue; grid-column: 29/30; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p253PiusVIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p254GregoryXVI    { background: blue; grid-column: 31/46; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p254GregoryXVI :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p255PiusIX    { background: yellow; grid-column: 46/78; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p255PiusIX :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p256LeoXIIIa    { background: blue; grid-column: 78/100; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p256LeoXIIIa :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+/* <!--********************1900s POPES*******************--> */
+
+.p256LeoXIIIb    { background: blue; grid-column: 01/03; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p256LeoXIIIb :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+.p257PiusX    { background: yellow; grid-column: 03/14; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p257PiusX :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p258BenedictXV    { background: blue; grid-column: 14/22; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p258BenedictXV :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p259PiusXI    { background: blue; grid-column: 22/39; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p259PiusXI :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p260PiusXII    { background: blue; grid-column: 39/58; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p260PiusXII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p261JohnXXIII    { background: yellow; grid-column: 58/63; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p261JohnXXIII :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p262PaulVI    { background: blue; grid-column: 63/78; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p262PaulVI :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p264JohnPaulIIa   { background: yellow; grid-column: 78/100; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p264JohnPaulIIa:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+
+/* <!--********************2000s POPES*******************--> */
+
+.p264JohnPaulIIb   { background: yellow; grid-column: 01/05; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: black;}
+.p264JohnPaulIIb:hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p265BenedictXVI    { background: blue; grid-column: 05/13; grid-row: 36/40; font-size: 1.5vh; text-align: center; color: white;}
+.p265BenedictXVI :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}
+
+.p266Francis    { background: blue; grid-column: 13/21; grid-row: 34/38; font-size: 1.5vh; text-align: center; color: white;}
+.p266Francis :hover { background: mediumslateblue; border-width: 1px; border-style: solid; border-color: magenta; cursor: pointer;}

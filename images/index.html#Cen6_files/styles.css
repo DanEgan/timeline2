@@ -1,0 +1,219 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* the width below is calculated from the
+slide width above in the .slide.
+90vw x 4 boxes = 360vw */
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  width: 1890vw;
+}
+
+
+/* /////////////start century jump bar///////////////////// */
+
+.centurysidenav {  height: 100vh;  width: 90px; position:sticky; z-index: 1;
+  top: 0; left: 0;  background-color: black;
+  font-family: "Lato", sans-serif;
+  overflow-x: hidden;  padding-top: 8px; padding-right: 5px;}
+
+.centurysidenav a {  padding: 8px;
+  text-decoration: none;  font-size: 2vh; color: white;  display: block;}
+
+/* .buttons {  background-color: black; border: none;  color: white;
+  text-align: left;  text-decoration: none;
+  /* display: inline-block; */
+  padding: 7px; font-size: 2vh;} */
+
+.a { background-color: black; padding: 0px; text-align: left;}
+
+
+.buttons:hover { color: blue;}
+
+.centurysidenav b:hover { color: blue; }
+
+.main {
+  margin-left: 120px; /* Same as the width of the sidenav */
+  font-size: 1vh; /* Increased text to enable scrolling */
+  padding: 0px 5px;}
+
+@media screen and (max-height: 450px) {
+  .centurysidenav {padding-top: 15px;}
+  .centurysidenav a {font-size: 1vh;}
+}
+/* /////////////end century jump bar///////////////////// */
+
+
+
+
+
+
+/* /////////////start nav bar///////////////////// */
+
+.sidenav {
+  height: 100vh;
+  width: 200px;
+  position:sticky;
+  z-index: 0;
+  top: 0;
+  left: 0;
+  background-color: black;
+  font-family: "Lato", sans-serif;
+  overflow-x: hidden;
+  padding-top: 20px;
+  padding-left: 80px;
+
+}
+
+.sidenav a {
+  padding: 20px 8px 20px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  display: block;
+}
+
+
+.button {
+  background-color: black;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  /* display: inline-block; */
+  padding: 17px 10px 16px 16px;
+  font-size: 25px;
+}
+
+.button:hover {  color: green;}
+
+.sidenav a:hover {  color: green;}
+
+.main {  margin-left: 200px; /* Same as the width of the sidenav */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;}
+
+@media screen and (max-height: 450px) {  .sidenav {padding-top: 15px;}  .sidenav a {font-size: 18px;} }
+/* /////////////end nav bar///////////////////// */
+
+
+
+
+
+
+
+
+
+
+
+/* vw = view width
+vh = view height
+these are in percentages
+of what is seem by the viewer */
+.slide {
+  width: 80vw;
+  height: 100vh;
+}
+
+.grid-container {
+  display: grid;
+  border-right: dashed;
+  /* grid-template-columns: repeat(100, 1fr); */
+
+  /* grid-template-columns: repeat(auto-fit, minmax(100, 1fr));
+  grid-template-rows: repeat(80, 1fr); */
+  grid-template-columns: repeat(auto-fit, minmax(100, 500px));
+  grid-template-rows: repeat(95, 7.75px);
+  text-align: center;
+  background: #2548EB;
+  background: -webkit-linear-gradient(top, #2548EB, #FFFFFF);
+  background: -moz-linear-gradient(top, #2548EB, #FFFFFF);
+  background: linear-gradient(to bottom, #2548EB, #FFFFFF);
+}
+
+
+.background1 {background-image: url('images/odds.jpg'); background-repeat: no-repeat; background-size: 100%;}
+.background2 {background-image: url('images/100s.jpg');background-repeat: no-repeat;background-size: 100%;}
+.background3 {background-image: url('images/200s.jpg'); background-repeat: no-repeat;background-size: 100%;}
+.background4 { background-image: url('images/300s.jpg'); background-repeat: no-repeat;background-size: 100%;}
+.background5 {background-image: url('images/400s.jpg'); background-repeat: no-repeat;background-size: 100%;}
+.background6 { background-image: url('images/500s.jpg'); background-repeat: no-repeat; background-size: 100%;}
+.background7 { background-image: url('images/600s.jpg'); background-repeat: no-repeat; background-size: 100%; }
+.background8 { background-image: url('images/700s.jpeg'); background-repeat: no-repeat; background-size: 100%; }
+.background9 { background-image: url('images/800s.jpg'); background-repeat: no-repeat; background-size: 100%; }
+.background10 { background-image: url('images/900s.jpg'); background-repeat: no-repeat; background-size: 100%; }
+.background11 { background-image: url('images/1000s.jpg'); background-repeat: no-repeat; background-size: 100%; }
+.background12 { background-image: url('images/1100s.jpg'); background-repeat: no-repeat; background-size: 100%; }
+.background13 { background-image: url('images/1200s.jpg'); background-repeat: no-repeat; background-size: 100%; }
+.background14 { background-image: url('images/1300s.jpg'); background-repeat: no-repeat; background-size: 100%; }
+.background15 { background-image: url('images/1400s.jpg'); background-repeat: no-repeat; background-size: 100%; }
+.background16 { background-image: url('images/1500s.jpeg'); background-repeat: no-repeat; background-size: 100%; }
+.background17 { background-image: url('images/1600s.jpg'); background-repeat: no-repeat; background-size: 100%; }
+.background18 { background-image: url('images/1700s.jpg'); background-repeat: no-repeat; background-size: 100%; }
+.background19 { background-image: url('images/1800s.jpg'); background-repeat: no-repeat; background-size: 100%; }
+.background20 { background-image: url('images/1900s.png'); background-repeat: no-repeat; background-size: 100%; }
+.background21 { background-image: url('images/2000s.jpg'); background-repeat: no-repeat; background-size: 100%; }
+
+
+
+
+
+
+.doctorsBar {
+border-top-style: solid;
+border-top-color: gold;
+grid-column: 1/100;
+grid-row: 11/12;
+}
+
+
+.saintsBar {
+border-top-style: solid;
+border-top-color: gold;
+grid-column: 1/100;
+grid-row: 21/22;
+}
+
+.missionariesBar {
+border-top-style: solid;
+border-top-color: gold;
+grid-column: 1/100;
+grid-row: 31/32;
+}
+
+.councilsBar {
+border-width:thick;
+border-top-style: solid;
+border-top-color: black;
+border-bottom-style: solid;
+border-border-color: black;
+grid-column: 1/100;
+grid-row: 43/50;
+}
+
+.battlesBar {
+border-top-style: solid;
+border-top-color: black;
+border-bottom-style: solid;
+border-border-color: black;
+grid-column: 1/100;
+grid-row: 62/72;
+}
+
+.eventsBar {
+border-top-style: solid;
+border-top-color: black;
+border-bottom-style: solid;
+border-border-color: black;
+grid-column: 1/100;
+grid-row: 73/83;
+}
+
+.heresyBar {
+background: black;
+grid-column: 1/100;
+grid-row: 84/94;
+}

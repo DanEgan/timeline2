@@ -1,0 +1,30 @@
+/* <!--********************ODDS HERESIES*******************--> */
+.h0000aJudaizers {
+  grid-column: 40/50; grid-row: 88/91;
+  font-family: helvetica, sans-serif;
+  font-variant: small-caps;
+  font-size: 1.5vh; font-weight: 300;
+  color: white;}
+.h0000aJudaizers:hover { background: gray;
+  border-width: 1px; border-style: solid;
+  cursor: pointer;}
+
+.h0000bGnostics {
+  grid-column: 75/85; grid-row: 88/91;
+  font-family: helvetica, sans-serif;
+  font-variant: small-caps;
+  font-size: 1.5vh; font-weight: 300;
+  color: white;}
+.h0000bGnostics:hover { background: gray;
+  border-width: 1px; border-style: solid;
+  cursor: pointer;}
+
+.h0100aMontanism {
+  grid-column: 60/75; grid-row: 88/91;
+  font-family: helvetica, sans-serif;
+  font-variant: small-caps;
+  font-size: 1.5vh; font-weight: 300;
+  color: white;}
+.h0100aMontanism:hover { background: gray;
+  border-width: 1px; border-style: solid;
+  cursor: pointer;

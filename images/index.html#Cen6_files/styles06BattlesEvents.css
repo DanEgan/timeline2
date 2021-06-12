@@ -1,0 +1,31 @@
+.e0064Rome {
+  grid-column: 55/70; grid-row: 74/81;
+  font-family: helvetica, sans-serif;
+  font-variant: small-caps;
+  font-size: 1.5vh; font-weight: 300;
+  color: white;}
+.e0064Rome:hover { background: blue;
+  border-width: 1px; border-style: solid;
+  cursor: pointer;}
+
+
+.e0070Jerusalem {
+  grid-column: 60/80; grid-row: 63/70;
+  font-family: helvetica, sans-serif;
+  font-variant: small-caps;
+  font-size: 1.5vh; font-weight: 300;
+  color: white;}
+.e0070Jerusalem:hover { background: blue;
+  border-width: 1px; border-style: solid;
+  cursor: pointer;}
+  /* <!--********************EVENTS 100s*******************--> */
+
+.e0132BarCochba {
+  grid-column: 33/58; grid-row: 63/70;
+  font-family: helvetica, sans-serif;
+  font-variant: small-caps;
+  font-size: 1.5vh; font-weight: 300;
+  color: black;}
+.e0132BarCochba:hover { background: blue;
+  border-width: 1px; border-style: solid;
+  cursor: pointer;}
